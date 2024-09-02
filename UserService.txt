@@ -1,4 +1,8 @@
 get the user data
 user data processing
 
+<<<<<<< HEAD
 create a new avatar for user
+=======
+create an avatar for user
+>>>>>>> feature2
